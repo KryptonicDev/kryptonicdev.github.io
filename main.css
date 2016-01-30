@@ -1,0 +1,32 @@
+body {
+    background-color: #464444;
+    font-family: Arial;
+}
+#container {
+    width: 1279px;
+    height: 1051px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    box-shadow: 0px 9px 40.94px 5.06px rgba(0, 0, 0, 0.63);
+}
+#header {                                               
+    width: 1280.1px;
+    height: 245px;
+    margin: auto;
+    background: #a4b357;
+    background: -moz-linear-gradient(top,  #a4b357 0%, #75890c 100%);
+    background: -webkit-linear-gradient(top,  #a4b357 0%,#75890c 100%);
+    background: linear-gradient(to bottom,  #a4b357 0%,#75890c 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a4b357', endColorstr='#75890c',GradientType=0 ); /* IE6-9 */
+    box-shadow: 0px 9px 40.94px 5.06px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    font-weight: 200;
+} 
+#post {
+    padding: 40px;
+}
+#title {
+    padding-top: 50px;
+    font-size: 80px;
+}
